@@ -1,1 +1,1 @@
-This repo contains all details you need to know about redux .
+ This repo contains all details you need to know about redux .
